@@ -7,7 +7,7 @@ sections:
     content: |
       test
     actions:
-      - label: Try Free
+      - label: try
         url: /pricing
         style: primary
       - label: Learn More
